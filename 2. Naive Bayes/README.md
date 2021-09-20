@@ -4,5 +4,5 @@
 
 ### 포함하고 있는 내용
 - 간단한 train data 6개를 이용하여 1개의 test data를 분석해보는 실습
-- sklearn 모듈 내의 위스콘신 유방암 진단 데이터(https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))를 이용하여 512개의 train data와 57개의 test data를 추출하고 분석해보는 실습
+- sklearn 모듈 내의 위스콘신 유방암 진단 데이터(https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)) 를 이용하여 512개의 train data와 57개의 test data를 추출하고 분석해보는 실습
 - 위스콘신 유방암 진단 데이터의 naive bayes 알고리즘 정확성을 파악해 보는 코드
