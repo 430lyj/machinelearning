@@ -1,6 +1,6 @@
 # Naive Bayes Example
 
-###### python을 이용한 Machine Learning 수업 중에서 배우는 내용 중 두 번째로, Naive Bayes를 구현하는 코드 파일을 담고 있습니다.
+#### python을 이용한 Machine Learning 수업 중에서 배우는 내용 중 두 번째로, Naive Bayes를 구현하는 코드 파일을 담고 있습니다.
 
 ### 포함하고 있는 내용
 - 간단한 train data 6개를 이용하여 1개의 test data를 분석해보는 실습
